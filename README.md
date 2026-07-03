@@ -177,13 +177,12 @@ Based on this analysis:
 - Peak season repeat purchases: November has 3,462 invoices from 1,711 customers (2x invoices per customer). Implement loyalty/subscription program to replicate this behavior year-round.
 
 4. **Customer Retention**
-   - Top 12% of customers = 60% of revenue
-   - Implement loyalty program for high-value segment
-   - Target: Increase high-value customer count by 10%
+- High-value concentration: 1,247 customers (12.7%) generate $6.1M (59% of revenue) with average order value of $487. Focus retention on this segment—losing one customer costs $4,900+ in annual revenue.
+- Frequency paradox: Top customers show different purchase patterns: customer 14646 (Netherlands) has 73 purchases generating $280K, while customer 16446 (UK) generates $168K with only 2 purchases. Implement VIP subscription/loyalty program to increase frequency among top spenders.
+- One-time buyer risk: 5,402 low-value customers (55.2% of base) have only 1 purchase averaging $600 each. Create re-engagement campaigns and exclusive offers to convert these to repeat buyers—even 20% conversion would add $650K annual revenue.
 
 5. **Data Improvements**
-   - Implement customer ID for all transactions (currently 25% missing)
-   - Track return reasons (10K+ returns detected)
+   - Track return reasons (9K+ returns detected)
    - Validate pricing data (2.5K zero-price items)
 
 ---
@@ -235,7 +234,7 @@ Future enhancements could include:
 
 ## 📝 Notes
 
-- All analysis excludes cancelled orders (invoices starting with 'c')
+- All analyses exclude cancelled orders (invoices starting with 'c')
 - Null customer IDs excluded from customer-level analysis but included in revenue totals
 - Returns (negative quantities) handled separately to avoid skewing metrics
 - All monetary values in GBP (£)
