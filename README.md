@@ -101,13 +101,13 @@ Focus retention efforts on high-value segment.
 | Cancelled Orders | 9,288 | Excluded | Data quality |
 
 ### Dataset Summary
-Original Records:        541,409
+Original Records:        541,909
 Records Removed:         143,525 (26.5%)
 Clean Records Used:      397,884
 Date Range:              Dec 2010 - Dec 2011
 Countries:               38
-Unique Products:         4,062
-Unique Customers:        9,540
+Unique Products:         4,070
+Unique Customers:        4,372
 
 ---
 
@@ -162,19 +162,19 @@ See `ANALYSIS_SUMMARY.md` for deeper business insights and recommendations.
 Based on this analysis:
 
 1. **Geographic Expansion**
-   - UK dominance (90% revenue) creates risk
+   - UK dominance (85% revenue) creates risk
    - Target Germany, France, Netherlands with localized campaigns
-   - Potential: +20% revenue from EU market penetration
+   - Potential: +15% revenue from EU market penetration
 
 2. **Product Strategy**
-   - Top 5 products = 15% revenue with high margins
-   - Create product bundles with home décor items
-   - Investigate why some products have negative sales (returns analysis needed)
+- Top 20 products generate 50% of revenue. Focus marketing on CAKESTAND (hero product) with $174K revenue and proven 2,017 repeat purchases.
+- Bundle CAKESTAND with premium postage services ($292 avg order) and lights to increase average order value from $26 to $35+.
+- Discontinue bottom 50% of 4,000+ SKUs (generating only 5% of revenue) to reduce operational complexity while maintaining profitability.
 
 3. **Seasonal Planning**
-   - Q4 is critical (35% of annual revenue)
-   - Plan inventory increases in Aug-Sep
-   - Launch holiday campaigns in September
+- Q4 dominance: November generates $1.46M (14% of annual revenue), October $1.07M—peak months are 2x higher than average.
+- Q1 weakness: January-April average only $500K/month. Plan promotions/sales in these months to smooth revenue and reduce seasonal swings.
+- Peak season repeat purchases: November has 3,462 invoices from 1,711 customers (2x invoices per customer). Implement loyalty/subscription program to replicate this behavior year-round.
 
 4. **Customer Retention**
    - Top 12% of customers = 60% of revenue
