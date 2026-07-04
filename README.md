@@ -127,12 +127,12 @@ Unique Customers:        4,372
 ## 📁 Files & Documentation
 
 ### SQL Queries
-- **`01_data_exploration.sql`** - Initial dataset investigation
-- **`02_data_quality.sql`** - Data quality assessment & cleaning decisions
-- **`03_revenue_by_country.sql`** - Geographic revenue analysis
-- **`04_revenue_by_product.sql`** - Product performance ranking
-- **`05_monthly_revenue_trend.sql`** - Time-series revenue analysis
-- **`06_customer_segmentation.sql`** - RFM customer classification
+- [01_data_exploration.sql](Sql%20files/01_Data_exploration.sql) - Initial dataset investigation
+- [02_data_quality.sql](Sql%20files/02_Data_Quality_Summary.sql) - Data quality assessment & cleaning decisions
+- [03_revenue_by_country.sql](Sql%20files/03_Country_by_revenue.sql) - Geographic revenue analysis
+- [04_revenue_by_product.sql](Sql%20files/04_Top_products_by_revenue.sql) - Product performance ranking
+- [05_monthly_revenue_trend.sql](Sql%20files/05_Month_revenue_trend.sql) - Time-series revenue analysis
+- [06_customer_segmentation.sql](Sql%20files/06_Customer_segment.sql) - RFM customer classification
 
 ### Results (CSV Exports)
 All SQL query results exported as CSV files for reproducibility:
@@ -150,10 +150,10 @@ All SQL query results exported as CSV files for reproducibility:
 Start with the SQL files to understand the analysis methodology. Each query is commented and structured for clarity.
 
 ### 2. **Check the Results**
-CSV files in `/Results/` show actual query outputs for quick reference.
+CSV files in [/Results/](project%20CSV%20files) show actual query outputs for quick reference.
 
 ### 3. **Read the Analysis Summary**
-See `ANALYSIS_SUMMARY.md` for deeper business insights and recommendations.
+See [ANALYSIS_SUMMARY.md](Analysis_Summary.txt) for deeper business insights and recommendations.
 
 ---
 
