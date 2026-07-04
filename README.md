@@ -177,9 +177,9 @@ Based on this analysis:
 - Peak season repeat purchases: November has 3,462 invoices from 1,711 customers (2x invoices per customer). Implement loyalty/subscription program to replicate this behavior year-round.
 
 4. **Customer Retention**
-- High-value concentration: 1,247 customers (12.7%) generate $6.1M (59% of revenue) with average order value of $487. Focus retention on this segment—losing one customer costs $4,900+ in annual revenue.
-- Frequency paradox: Top customers show different purchase patterns: customer 14646 (Netherlands) has 73 purchases generating $280K, while customer 16446 (UK) generates $168K with only 2 purchases. Implement VIP subscription/loyalty program to increase frequency among top spenders.
-- One-time buyer risk: 5,402 low-value customers (55.2% of base) have only 1 purchase averaging $600 each. Create re-engagement campaigns and exclusive offers to convert these to repeat buyers—even 20% conversion would add $650K annual revenue.
+- High-value concentration drives profitability: 1,087 customers (25% of customer base) generate $7.05M (79% of revenue) with average lifetime value of $6,487. These customers purchase 10.4 times on average. Losing a single high-value customer costs $6,500+ in annual revenue—implement VIP retention programs immediately.
+- Frequency paradox reveals different buyer types: High-value customers average 10.4 purchases vs. low-value customers at only 1.3 purchases. Yet both segments have customers with extreme variations (some high-value customers have only 1-2 purchases while others have 200+). Create tiered loyalty programs: reward high-frequency buyers with points, offer one-time high-spenders personalized premium service.
+- Low-value customer conversion is critical leverage: 1,087 low-value customers (25% of base) spend only $179 lifetime. Converting just 10% to medium-value tier ($766 average) would add $587K annual revenue. Implement re-engagement campaigns targeting inactive low-value customers with exclusive bundles and personalized recommendations.
 
 5. **Data Improvements**
    - Track return reasons (9K+ returns detected)
