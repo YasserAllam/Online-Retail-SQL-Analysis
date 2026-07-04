@@ -63,26 +63,26 @@ Plan inventory and marketing accordingly.
 ---
 
 ### 4. **Customer Segmentation (RFM Analysis)**
-High-Value Customers (>$20,000 lifetime):
+High-Value Customers ($1,661+ lifetime):
 
-Count: 1,247 customers (12.7%)
-Revenue: $6.1M (59% of total)
-Avg Order Value: $487
+Count: 1,087 customers (25%)
+Revenue: $7.05M (79% of total)
+Avg Order Value: $6,487
 
-Medium-Value ($1,000-$5,000):
+Medium-Value ($307-$1,661):
 
-Count: 2,891 customers (29.6%)
-Revenue: $3.2M (31% of total)
-Avg Order Value: $112
+Count: 2,172 customers (50%)
+Revenue: $1.66M (18.7% of total)
+Avg Order Value: $766
 
-Low-Value (<$1,000):
+Low-Value (<$307):
 
-Count: 5,402 customers (55.2%)
-Revenue: $1.5M (10% of total)
-Avg Order Value: $28
+Count: 1,087 customers (25%)
+Revenue: $195K (2.2% of total)
+Avg Order Value: $179
 
 
-**Business Insight:** Top 12% of customers generate 60% of revenue. 
+**Business Insight:** Top 25% of customers generate 79% of revenue. 
 Focus retention efforts on high-value segment.
 
 📊 *See: `customer_segments.csv`*
