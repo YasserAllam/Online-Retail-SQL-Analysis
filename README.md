@@ -101,13 +101,13 @@ Focus retention efforts on high-value segment.
 | Cancelled Orders | 9,288 | Excluded | Data quality |
 
 ### Dataset Summary
-Original Records:        541,909
-Records Removed:         143,525 (26.5%)
-Clean Records Used:      397,884
-Date Range:              Dec 2010 - Dec 2011
-Countries:               38
-Unique Products:         4,070
-Unique Customers:        4,372
+- Original Records:        541,909
+- Records Removed:         143,525 (26.5%)
+- Clean Records Used:      397,884
+- Date Range:              Dec 2010 - Dec 2011
+- Countries:               38
+- Unique Products:         4,070
+- Unique Customers:        4,372
 
 ---
 
