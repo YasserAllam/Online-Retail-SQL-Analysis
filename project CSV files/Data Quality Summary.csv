@@ -1,0 +1,8 @@
+"metric","value"
+"Total Records","541909"
+"Clean Records (after filtering with null customer ids)","530100"
+"Clean Records (after filtering)","397880"
+"Null Customer IDs","135080"
+"Negative Quantities","10624"
+"Cancelled Invoices (c prefix)","9288"
+"Zero Unit Prices","2519"
