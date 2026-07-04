@@ -27,7 +27,7 @@ Top 5 Countries by Revenue:
 **Business Insight:** UK market heavily dominates, but represents concentration risk.
 International expansion in Europe could diversify revenue.
 
-📊 *See: `top_countries_revenue.csv`*
+📊 *See: [top_countries_revenue.csv](project%20CSV%20files/Country%20by%20revenue.csv)
 
 ---
 
@@ -44,7 +44,7 @@ Top 5 Products by Revenue:
 **Business Insight:** Bundle CAKESTAND with premium postage + lights. Discontinue low-margin commodities.
 Upsell services. Expected impact: +$500K revenue, -50% operational complexity.
 
-📊 *See: `top_products_revenue.csv`*
+📊 *See: [top_products_revenue.csv](project%20CSV%20files/Top%20products%20by%20revenue.csv)
 
 ---
 
@@ -58,7 +58,7 @@ Upsell services. Expected impact: +$500K revenue, -50% operational complexity.
 Q4 (Oct-Dec) represents 35% of annual revenue. 
 Plan inventory and marketing accordingly.
 
-📊 *See: `monthly_revenue_trend.csv`*
+📊 *See: [monthly_revenue_trend.csv](project%20CSV%20files/Monthly%20revenue%20trend.csv)
 
 ---
 
@@ -85,7 +85,7 @@ Avg Order Value: $179
 **Business Insight:** Top 25% of customers generate 79% of revenue. 
 Focus retention efforts on high-value segment.
 
-📊 *See: `customer_segments.csv`*
+📊 *See: [customer_segments.csv](project%20CSV%20files/Customer%20segment.csv)
 
 ---
 
@@ -136,11 +136,11 @@ Unique Customers:        4,372
 
 ### Results (CSV Exports)
 All SQL query results exported as CSV files for reproducibility:
-- `data_quality_summary.csv`
-- `top_countries_revenue.csv`
-- `top_products_revenue.csv`
-- `monthly_revenue_trend.csv`
-- `customer_segments.csv`
+- [data_quality_summary.csv](project%20CSV%20files/Data%20Quality%20Summary.csv)
+- [top_countries_revenue.csv](project%20CSV%20files/Country%20by%20revenue.csv)
+- [top_products_revenue.csv](project%20CSV%20files/Top%20products%20by%20revenue.csv)
+- [monthly_revenue_trend.csv](project%20CSV%20files/Monthly%20revenue%20trend.csv)
+- [customer_segments.csv](project%20CSV%20files/Customer%20segment.csv)
 
 ---
 
