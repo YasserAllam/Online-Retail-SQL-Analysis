@@ -81,6 +81,14 @@ Count: 1,087 customers (25%)
 Revenue: $195K (2.2% of total)
 Avg Order Value: $179
 
+## Segmentation Methodology
+
+Customer segments determined using **percentile-based analysis**:
+- **High-Value:** Top 25% (>$1,661) = 79% of revenue
+- **Medium-Value:** Middle 50% ($307-$1,661) = 19% of revenue
+- **Low-Value:** Bottom 25% (<$307) = 2% of revenue
+
+**Why percentiles?** Data-driven, balanced, statistical validity.
 
 **Business Insight:** Top 25% of customers generate 79% of revenue. 
 Focus retention efforts on high-value segment.
@@ -180,10 +188,6 @@ Based on this analysis:
 - High-value concentration drives profitability: 1,087 customers (25% of customer base) generate $7.05M (79% of revenue) with average lifetime value of $6,487. These customers purchase 10.4 times on average. Losing a single high-value customer costs $6,500+ in annual revenue—implement VIP retention programs immediately.
 - Frequency paradox reveals different buyer types: High-value customers average 10.4 purchases vs. low-value customers at only 1.3 purchases. Yet both segments have customers with extreme variations (some high-value customers have only 1-2 purchases while others have 200+). Create tiered loyalty programs: reward high-frequency buyers with points, offer one-time high-spenders personalized premium service.
 - Low-value customer conversion is critical leverage: 1,087 low-value customers (25% of base) spend only $179 lifetime. Converting just 10% to medium-value tier ($766 average) would add $587K annual revenue. Implement re-engagement campaigns targeting inactive low-value customers with exclusive bundles and personalized recommendations.
-
-5. **Data Improvements**
-   - Track return reasons (9K+ returns detected)
-   - Validate pricing data (2.5K zero-price items)
 
 ---
 
