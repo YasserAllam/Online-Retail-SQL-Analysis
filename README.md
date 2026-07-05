@@ -195,7 +195,7 @@ Based on this analysis:
 | Clean Transactions | 397,884 |
 | Countries Covered | 38 |
 | Products Analyzed | 4,062 |
-| Customers Segmented | 9,540 |
+| Customers Segmented | 4,346 |
 | Revenue Analyzed | $10.4M |
 | Date Range | 12 months |
 
