@@ -161,7 +161,7 @@ Start with the SQL files to understand the analysis methodology. Each query is c
 CSV files in [/Results/](project%20CSV%20files) show actual query outputs for quick reference.
 
 ### 3. **Read the Analysis Summary**
-See [ANALYSIS_SUMMARY.md](Analysis_Summary.txt) for deeper business insights and recommendations.
+See [ANALYSIS_SUMMARY.md](Analysis_Summary.md) for deeper business insights and recommendations.
 
 ---
 
